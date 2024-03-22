@@ -1,0 +1,17 @@
+export const categories = [
+    "All",
+    "Web Development",
+    "Mobile App Development",
+    "Data Science",
+    "Machine Learning",
+    "Game Development",
+    "DevOps",
+    "Blockchain",
+    "Cybersecurity",
+    "Cloud Computing",
+    "Frontend Development",
+    "Backend Development",
+    "Software Engineering",
+    "Artificial Intelligence",
+    "Database Management",
+];
